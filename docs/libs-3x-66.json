@@ -1,0 +1,46 @@
+[
+    {
+        "src":"http://qpython.org",
+        "rdate":"2023-11-11",
+        "link":"http://io.qpython.org/3x/scripts/qedit4web.py",
+        "smodule":"qedit4web.py",
+        "description":"2023/11/11 updated",
+        "title":"QEditor for PC",
+        "ver":"1.0.0",
+        "downloads": "10,000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2023-11-11",
+        "link":"http://io.qpython.org/3x/scripts/ipython3.py",
+        "smodule":"ipython3.py",
+        "description":"2023/12/06 updated",
+        "title":"IPython",
+        "ver":"1.0.0",
+        "downloads": "1,000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2023-12-05",
+        "link":"http://io.qpython.org/notebooks/aipy-openai-001.ipynb",
+        "smodule":"aipy-openai-001.ipynb",
+        "description":"OpenAI notebook",
+        "title":"[AIPY]OpenAI notebook - CS001",
+        "ver":"1.0.0",
+        "downloads": "1,000+",
+        "cat":"notebook"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2023-12-05",
+        "link":"http://io.qpython.org/notebooks/aipy-matplotlib-001-cn.ipynb",
+        "smodule":"aipy-matplotlib-001-cn.ipynb",
+        "description":"Matplotlib notebook",
+        "title":"[AIPY]Matplotlib notebook - CS001",
+        "ver":"1.0.0",
+        "downloads": "2,000+",
+        "cat":"notebook"
+    }
+]
