@@ -34,6 +34,17 @@
     },
     {
         "src":"http://qpython.org",
+        "rdate":"2023-11-11",
+        "link":"http://io.qpython.org/3x/scripts/turtle-draw-doraemon.py",
+        "smodule":"turtle-draw-doraemon.py",
+        "description":"2025/3/27 updated",
+        "title":"Turtle Draw Doraemon",
+        "ver":"1.0.0",
+        "downloads": "500+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
         "rdate":"2023-12-05",
         "link":"http://io.qpython.org/notebooks/qsl4a-samples.ipynb",
         "smodule":"qsl4a-samples.ipynb",

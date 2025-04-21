@@ -28,6 +28,20 @@
         "cat":"qpypi"
     }, 
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/tkinter-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/tkinter-qpython-8.6.0.5.tar.gz",
+        "rdate":"2025-3-22",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/tkinter-qpython-8.6.0.5.tar.gz",
+        "rmodule":"tkinter",
+        "tmodule":"tkinter_qpython-8.6.0.5.dist-info",
+        "description":"Python interface to Tcl/Tk",
+        "title":"Tkinter - Python interface to Tcl/Tk",
+        "ver":"8.6.0.5",
+        "downloads": "100+",
+        "cat":"qpypi"
+    }, 
+    {
         "src":"https://pypi.org/project/Flask",
         "rsrc":"",
         "rdate":"2023-11-11",
@@ -109,6 +123,20 @@
         "title":"SQLAlchemy - The Database Toolkit for QPython",
         "ver":"2.0.36",
         "downloads": "1000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"https://qpypi312.qpython.org/pyshop/package/sqlite-orm-vec-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlite-orm-vec-qpython-0.1.5.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlite-orm-vec-qpython-0.1.5.tar.gz",
+        "rmodule":"sqlite_orm",
+        "tmodule":"sqlite-orm-vec-qpython-0.1.5.dist-info",
+        "description":"A Python object relational mapper for SQLite with Vector.",
+        "title":"SQLite ORM VEC - A Python object relational mapper for SQLite with Vector",
+        "ver":"0.1.5",
+        "downloads": "500+",
         "cat":"qpypi"
     },
     {
@@ -220,6 +248,20 @@
         "description":"cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
         "title":"Cryptography - It provides cryptographic recipes and primitives",
         "ver":"10.4.0",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"https://pypi.org/project/paho-mqtt",
+        "rsrc":"",
+        "rdate":"2023-11-11",
+        "link":"https://qpypi3.qpython.org/simple",
+        "smodule":"paho-mqtt",
+        "rmodule":"paho",
+        "tmodule":"paho_mqtt-2.1.0.dist-info",
+        "description":"MQTT version 5.0/3.1.1 client class",
+        "title":"Paho-mqtt - MQTT version 5.0/3.1.1 client class",
+        "ver":"2.1.0",
         "downloads": "1,000+",
         "cat":"qpypi"
     },
