@@ -1,6 +1,6 @@
 [ 
     {
-        "src":"https://pypi.org/project/Django",
+        "src":"https://pypi.org/project/Django/",
         "rsrc":"",
         "rdate":"2023-10-19",
         "link":"https://qpypi3.qpython.org/simple",
@@ -28,11 +28,11 @@
         "cat":"qpypi"
     }, 
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/tkinter-qpython",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/tkinter-qpython-8.6.0.5.tar.gz",
+        "src":"https://pypi.org/project/tkinter-qpython/",
+        "rsrc":"",
         "rdate":"2025-3-22",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/tkinter-qpython-8.6.0.5.tar.gz",
+        "smodule":"tkinter-qpython",
         "rmodule":"tkinter",
         "tmodule":"tkinter_qpython-8.6.0.5.dist-info",
         "description":"Python interface to Tcl/Tk",
@@ -42,7 +42,7 @@
         "cat":"qpypi"
     }, 
     {
-        "src":"https://pypi.org/project/Flask",
+        "src":"https://pypi.org/project/Flask/",
         "rsrc":"",
         "rdate":"2023-11-11",
         "link":"https://qpypi3.qpython.org/simple",
@@ -56,7 +56,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://pypi.org/project/requests",
+        "src":"https://pypi.org/project/requests/",
         "rsrc":"",
         "rdate":"2023-12-06",
         "link":"https://qpypi3.qpython.org/simple",
@@ -70,11 +70,11 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/scrapy-qpython",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/scrapy-qpython-2.11.2.3.tar.gz",
+        "src":"https://pypi.org/project/scrapy-qpython/",
+        "rsrc":"",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/scrapy-qpython-2.11.2.3.tar.gz",
+        "smodule":"scrapy-qpython",
         "rmodule":"scrapy",
         "tmodule":"scrapy_qpython-2.11.2.3.dist-info",
         "description":"A high-level Web Crawling and Web Scraping framework",
@@ -84,16 +84,16 @@
         "cat":"qpypi"
     }, 
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/twisted-qpython",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/twisted-qpython-24.7.0.1.tar.gz",
+        "src":"https://pypi.org/project/twisted-qpython/",
+        "rsrc":"",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/twisted-qpython-24.7.0.1.tar.gz",
+        "smodule":"twisted-qpython",
         "rmodule":"twisted",
-        "tmodule":"twisted_qpython-24.7.0.1.dist-info",
+        "tmodule":"twisted_qpython-24.7.0.2.dist-info",
         "description":"Twisted is a Python event-based framework for internet applications",
         "title":"Twisted - An asynchronous networking framework written in Python",
-        "ver":"24.7.0.1",
+        "ver":"24.7.0.2",
         "downloads": "1,000+",
         "cat":"qpypi"
     },   
@@ -112,11 +112,11 @@
         "cat":"qpypi"
     },   
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/sqlalchemy-qpython",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlalchemy-qpython-2.0.36.tar.gz",
+        "src":"https://pypi.org/project/sqlalchemy-qpython/",
+        "rsrc":"",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlalchemy-qpython-2.0.36.tar.gz",
+        "smodule":"sqlalchemy-qpython",
         "rmodule":"sqlalchemy",
         "tmodule":"sqlalchemy_qpython-2.0.36.dist-info",
         "description":"The Database Toolkit for Python",
@@ -126,11 +126,11 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/sqlite-orm-vec-qpython",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlite-orm-vec-qpython-0.1.5.tar.gz",
+        "src":"https://pypi.org/project/sqlite-orm-vec-qpython/",
+        "rsrc":"",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlite-orm-vec-qpython-0.1.5.tar.gz",
+        "smodule":"sqlite-orm-vec-qpython",
         "rmodule":"sqlite_orm",
         "tmodule":"sqlite-orm-vec-qpython-0.1.5.dist-info",
         "description":"A Python object relational mapper for SQLite with Vector.",
@@ -140,7 +140,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://pypi.org/project/mysql-connector-python",
+        "src":"https://pypi.org/project/mysql-connector-python/",
         "rsrc":"",
         "rdate":"2023-11-11",
         "link":"https://qpypi3.qpython.org/simple",

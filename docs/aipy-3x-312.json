@@ -70,11 +70,11 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/langgraph-aipy",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/langgraph-aipy-0.3.18.tar.gz",
+        "src":"https://pypi.org/project/langgraph-aipy/",
+        "rsrc":"",
         "rdate":"2025-3-22",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/langgraph-aipy-0.3.18.tar.gz",
+        "smodule":"langgraph-aipy",
         "rmodule":"langgraph",
         "tmodule":"langgraph_aipy-0.3.18.dist-info",
         "ver":"0.3.18",
@@ -84,11 +84,11 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/langchain-aipy",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/langchain-aipy-0.3.21.tar.gz",
+        "src":"https://pypi.org/project/langchain-aipy/",
+        "rsrc":"",
         "rdate":"2025-3-22",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/langchain-aipy-0.3.21.tar.gz",
+        "smodule":"langchain-aipy",
         "rmodule":"langchain",
         "tmodule":"langchain_aipy-0.3.21.dist-info",
         "ver":"0.3.21",
@@ -98,8 +98,8 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/torch-aipy",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/torch-aipy-2.5.0.6.tar.gz",
+        "src":"https://pypi.org/project/torch-aipy/",
+        "rsrc":"",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
         "smodule":"torch-aipy",
@@ -126,13 +126,13 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/seaborn-aipy",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/seaborn-aipy-0.13.2.tar.gz",
+        "src":"https://pypi.org/project/seaborn-qpython/",
+        "rsrc":"",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/seaborn-aipy-0.13.2.tar.gz",
+        "smodule":"seaborn-qpython",
         "rmodule":"seaborn",
-        "tmodule":"seaborn_aipy-0.13.2.dist-info",
+        "tmodule":"seaborn_qpython-0.13.2.dist-info",
         "description":"Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.",
         "title":"Seaborn - Statistical data visualization",
         "ver":"0.13.2",
@@ -154,11 +154,11 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/scikit-learn-aipy",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/scikit-learn-aipy-1.5.2.tar.gzz",
+        "src":"https://pypi.org/project/scikit-learn-aipy/",
+        "rsrc":"",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/scikit-learn-aipy-1.5.2.tar.gz",
+        "smodule":"scikit-learn-aipy",
         "rmodule":"sklearn",
         "tmodule":"scikit_learn_aipy-1.5.2.dist-info",
         "description":"scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.",
@@ -168,11 +168,11 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/scipy-aipy",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/scipy-aipy-1.14.1.tar.gz",
+        "src":"https://pypi.org/project/scipy-aipy/",
+        "rsrc":"",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/scipy-aipy-1.14.1.tar.gz",
+        "smodule":"scipy-aipy",
         "rmodule":"scipy",
         "tmodule":"scipy_aipy-1.14.1.dist-info",
         "description":"Fundamental algorithms for scientific computing in Python",
@@ -196,16 +196,16 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/opencv-aipy",
+        "src":"https://pypi.org/project/opencv-aipy/",
         "rsrc":"",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
         "smodule":"opencv-aipy",
-        "rmodule":"Opencv",
-        "tmodule":"opencv_aipy-4.10.0.dist-info",
+        "rmodule":"cv2",
+        "tmodule":"opencv_aipy-4.10.0.2.dist-info",
         "description":"OpenCV is raising funds to keep the library free for everyone, and we need the support of the entire community to do it",
         "title":"OpenCV - Wrapper package for OpenCV python bindings",
-        "ver":"4.10.0",
+        "ver":"4.10.0.2",
         "downloads": "3,000+",
         "cat":"qpypi"
     },
