@@ -35,8 +35,8 @@
         "smodule":"tkinter-qpython",
         "rmodule":"tkinter",
         "tmodule":"tkinter_qpython-8.6.0.5.dist-info",
-        "description":"Python interface to Tcl/Tk",
-        "title":"Tkinter - Python interface to Tcl/Tk",
+        "description":" QPython graphical interface",
+        "title":"Turtle & Tkinter - QPython graphical interface",
         "ver":"8.6.0.5",
         "downloads": "100+",
         "cat":"qpypi"
